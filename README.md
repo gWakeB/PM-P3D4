@@ -1,2 +1,2 @@
 # PM-P3D4
-Principles, Pattern, &amp; Productivity Driven Design, Development, &amp; Deployment:  A Project Management Methodology for the modern era.  
+Principles, Pattern, &amp; Productivity Driven Design, Development, &amp; Deployment P3D4:  A Project Management methodology for the modern era.  This is the central repository for the P3D4 Project Management system documentation.  Here are some of the foundational documents, including the PIE ("Process is Evil") manifesto and the 5Cs of software development (Communicate, Comprehend, Conceptualize, Construct, Commit, Correct).
